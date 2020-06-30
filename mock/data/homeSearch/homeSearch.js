@@ -1,0 +1,30 @@
+module.exports={
+    search:{
+        "hotSearch":[
+            "身体乳",
+            "口红",
+            "控油",
+           "粉饼",
+            "精华",
+        ],
+        "searchList":[
+            {
+                "img":'https://tva1.sinaimg.cn/large/007DFXDhgy1g51tezj867j303y0400tq.jpg',
+                "title":"护肤技巧",
+                "desc":"大量护肤小技巧等你来"
+            },
+            {
+                "img":'https://tva3.sinaimg.cn/large/007DFXDhgy1g51tfl783ej302o02omxf.jpg',
+                "title":"最火唇膏",
+                "desc":"喜欢点我"
+            }
+        ],
+        "searchTitle":[
+            "话题",
+            "产品",
+            "用户",
+        ]
+    },
+
+    
+}

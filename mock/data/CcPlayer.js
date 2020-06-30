@@ -1,0 +1,21 @@
+const ccplayer=[
+    {
+        "id":01,
+        "name":'芮儿',
+        "desc":'大爱楼主推荐，赞赞赞！',
+        "time":"22分钟前"
+    },
+    {
+        "id":02,
+        "name":'悦小舞',
+        "desc":'喜欢这个产品',
+        "time":"23分钟前"
+    },
+    {
+        "id":01,
+        "name":'小溪',
+        "desc":'大爱啊',
+        "time":"30分钟前"
+    }
+] 
+module.exports=ccplayer;

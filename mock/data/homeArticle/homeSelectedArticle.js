@@ -1,0 +1,19 @@
+module.exports={
+    article:[
+        
+        {
+            'img':'https://ws4.sinaimg.cn/large/007DFXDhly1g5205a95vdj30io09s0wq.jpg',
+            'name':'悦小舞',
+            'touxiang':'https://tva4.sinaimg.cn/large/007DFXDhgy1g51lctp6wpj302a02adg2.jpg',
+            'attention':'关注ta',
+            "id":1005
+        },
+        {
+            'touxiang':'https://tva1.sinaimg.cn/large/007DFXDhgy1g5208dinqyj302o02omxf.jpg',
+            'img':'https://tva2.sinaimg.cn/large/007DFXDhly1g52059ipkrj30io09s46t.jpg',
+            'name':'小屋',
+            'attention':'关注ta',
+            "id":1006
+        }
+    ]
+}
